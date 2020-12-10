@@ -1,4 +1,5 @@
 # Group of Ruby statements that immediately follows a method block
+# Blocks are not standalone, it only executes after a method call
 
 # .times execute sth a certain number of times
 5.times { puts "Boris is awesome!" } # => prints out Boris is awesome 5 times
